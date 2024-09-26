@@ -7,4 +7,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristofferZinke&theme=algolia)
 
 ### Contact
-[![Discord Presence](https://lanyard.cnrad.dev/api/441450549552873473)](https://discord.com/users/441450549552873473)  
+[![Discord Presence](https://lanyard.cnrad.dev/api/441450549552873473)](https://discord.com/users/441450549552873473)
